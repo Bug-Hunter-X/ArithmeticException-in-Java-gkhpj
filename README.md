@@ -1,0 +1,1 @@
+This repository contains a simple Java program that demonstrates an ArithmeticException. The program attempts to divide an integer by zero, which results in an ArithmeticException. The solution demonstrates how to prevent this type of error.  The bug is in `bug.java` and the solution is in `bugSolution.java`.
